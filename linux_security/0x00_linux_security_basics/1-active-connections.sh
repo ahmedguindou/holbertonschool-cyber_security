@@ -1,2 +1,2 @@
 #!/bin/bash
-ss -tnap
+sudo ss -tnap
