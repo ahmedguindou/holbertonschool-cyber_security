@@ -1,0 +1,12 @@
+fcb.tunisiebooking.com,104.26.2.243,hackertarget
+tn.tunisiebooking.com,104.26.2.243,hackertarget
+dz.tunisiebooking.com,104.26.3.243,hackertarget
+blog.tunisiebooking.com,8.47.69.4,hackertarget
+ucs.tunisiebooking.com,172.67.71.191,hackertarget
+www.tunisiebooking.com,8.6.112.4,hackertarget
+tunisiebooking.com,172.67.71.191,digitorus
+secure.tunisiebooking.com,104.26.2.243,hackertarget
+al.tunisiebooking.com,104.26.2.243,hackertarget
+testal.tunisiebooking.com,172.67.71.191,hackertarget
+apial.tunisiebooking.com,51.75.253.211,hackertarget
+gtm.tunisiebooking.com,34.107.113.134,crtsh
