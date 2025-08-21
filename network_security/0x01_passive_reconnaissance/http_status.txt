@@ -1,0 +1,66 @@
+Testing rails-assets-apply-staging.holbertonschool.com
+---
+Testing www.holbertonschool.com
+HTTP/2 200 
+---
+Testing apply.holbertonschool.com
+HTTP/2 302 
+---
+Testing beta.holbertonschool.com
+---
+Testing staging-apply.holbertonschool.com
+HTTP/2 401 
+---
+Testing apply-staging.holbertonschool.com
+---
+Testing lvl2-discourse-staging.holbertonschool.com
+---
+Testing smile2021.holbertonschool.com
+---
+Testing support.holbertonschool.com
+---
+Testing read.holbertonschool.com
+HTTP/2 401 
+---
+Testing v3.holbertonschool.com
+---
+Testing rails-assets.holbertonschool.com
+HTTP/2 301 
+---
+Testing alpha.holbertonschool.com
+---
+Testing help.holbertonschool.com
+---
+Testing fr.webflow.holbertonschool.com
+---
+Testing blog-new.holbertonschool.com
+---
+Testing staging-rails-assets-apply.holbertonschool.com
+HTTP/2 301 
+---
+Testing blog.holbertonschool.com
+HTTP/2 200 
+---
+Testing staging-apply-forum.holbertonschool.com
+---
+Testing webflow.holbertonschool.com
+---
+Testing fr.holbertonschool.com
+---
+Testing hippokampoi.holbertonschool.com
+---
+Testing holbertonschool.com
+HTTP/2 301 
+---
+Testing v1.holbertonschool.com
+---
+Testing yriry2.holbertonschool.com
+HTTP/2 403 
+---
+Testing assets.holbertonschool.com
+HTTP/2 403 
+---
+Testing en.fr.holbertonschool.com
+---
+Testing v2.holbertonschool.com
+---

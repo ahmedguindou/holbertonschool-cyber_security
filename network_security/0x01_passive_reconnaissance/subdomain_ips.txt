@@ -1,0 +1,124 @@
+=== Analyzing rails-assets-apply-staging.holbertonschool.com ===
+---
+=== Analyzing www.holbertonschool.com ===
+proxy-ssl.webflow.com.
+proxy-ssl-geo-2.webflow.com.
+35.152.117.67
+15.160.106.203
+15.161.34.42
+---
+=== Analyzing apply.holbertonschool.com ===
+hbtn-website-prod.eu-west-3.elasticbeanstalk.com.
+13.36.159.193
+13.36.62.51
+15.188.218.54
+---
+=== Analyzing beta.holbertonschool.com ===
+hbtnweb-beta.us-east-1.elasticbeanstalk.com.
+---
+=== Analyzing staging-apply.holbertonschool.com ===
+hbtn-website-staging.eu-west-3.elasticbeanstalk.com.
+13.37.67.17
+35.181.42.84
+---
+=== Analyzing apply-staging.holbertonschool.com ===
+---
+=== Analyzing lvl2-discourse-staging.holbertonschool.com ===
+13.38.216.13
+---
+=== Analyzing smile2021.holbertonschool.com ===
+proxy-ssl.webflow.com.
+proxy-ssl-geo-2.webflow.com.
+35.152.117.67
+15.160.106.203
+15.161.34.42
+---
+=== Analyzing support.holbertonschool.com ===
+holbertonschool.zendesk.com.
+216.198.54.6
+216.198.53.6
+---
+=== Analyzing read.holbertonschool.com ===
+hbtn-website-read.eu-west-3.elasticbeanstalk.com.
+35.180.6.147
+13.39.186.230
+---
+=== Analyzing v3.holbertonschool.com ===
+54.89.246.137
+---
+=== Analyzing rails-assets.holbertonschool.com ===
+d1n01hjoh1bnhi.cloudfront.net.
+216.137.52.119
+216.137.52.33
+216.137.52.75
+216.137.52.21
+---
+=== Analyzing alpha.holbertonschool.com ===
+ec2-54-157-56-129.compute-1.amazonaws.com.
+54.157.56.129
+---
+=== Analyzing help.holbertonschool.com ===
+holbertonschool.com.
+75.2.70.75
+99.83.190.102
+---
+=== Analyzing fr.webflow.holbertonschool.com ===
+websites.weglot.com.
+104.17.201.193
+---
+=== Analyzing blog-new.holbertonschool.com ===
+---
+=== Analyzing staging-rails-assets-apply.holbertonschool.com ===
+d1izqmygk6pkj0.cloudfront.net.
+3.164.182.2
+3.164.182.115
+3.164.182.53
+3.164.182.77
+---
+=== Analyzing blog.holbertonschool.com ===
+192.0.78.230
+192.0.78.131
+---
+=== Analyzing staging-apply-forum.holbertonschool.com ===
+13.38.122.220
+---
+=== Analyzing webflow.holbertonschool.com ===
+proxy-ssl.webflow.com.
+proxy-ssl-geo-2.webflow.com.
+35.152.117.67
+15.160.106.203
+15.161.34.42
+---
+=== Analyzing fr.holbertonschool.com ===
+proxy-ssl.webflow.com.
+proxy-ssl-geo-2.webflow.com.
+15.160.106.203
+15.161.34.42
+35.152.117.67
+---
+=== Analyzing hippokampoi.holbertonschool.com ===
+---
+=== Analyzing holbertonschool.com ===
+99.83.190.102
+75.2.70.75
+---
+=== Analyzing v1.holbertonschool.com ===
+54.86.136.129
+---
+=== Analyzing yriry2.holbertonschool.com ===
+52.47.143.83
+---
+=== Analyzing assets.holbertonschool.com ===
+d15pj990prg69j.cloudfront.net.
+3.160.196.110
+3.160.196.7
+3.160.196.33
+3.160.196.20
+---
+=== Analyzing en.fr.holbertonschool.com ===
+websites.weglot.com.
+104.17.201.193
+---
+=== Analyzing v2.holbertonschool.com ===
+34.203.198.145
+---

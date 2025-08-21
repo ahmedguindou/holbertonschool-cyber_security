@@ -1,0 +1,76 @@
+=== www.holbertonschool.com ===
+HTTP/2 200 
+date: Thu, 21 Aug 2025 10:18:40 GMT
+content-type: text/html
+server: cloudflare
+cf-ray: 9729634448cded48-MXP
+cf-cache-status: HIT
+age: 205204
+last-modified: Sat, 16 Aug 2025 12:02:42 GMT
+strict-transport-security: max-age=31536000
+content-security-policy: frame-ancestors 'self'
+surrogate-control: max-age=432000
+surrogate-key: www.holbertonschool.com 6105315644a26f77912a1ada pageId:615c4a48afca66df7bc507ac 615c4a48afca6637b1c507ca 615c4a48afca66b8a3c507cf
+x-frame-options: SAMEORIGIN
+x-lambda-id: 72b82991-aa77-4543-9259-1966d9b8a825
+vary: Accept-Encoding
+set-cookie: _cfuvid=aWSTeISyFmpMmhh0EcMkMjvSQD6BIUWR4rqI3mLLcL4-1755771520719-0.0.1.1-604800000; path=/; domain=.www.holbertonschool.com; HttpOnly; Secure; SameSite=None
+alt-svc: h3=":443"; ma=86400
+
+
+=== apply.holbertonschool.com ===
+HTTP/2 302 
+date: Thu, 21 Aug 2025 10:18:41 GMT
+content-type: text/html; charset=utf-8
+location: https://apply.holbertonschool.com/auth/sign_up?country=tn&locale=fr
+server: nginx/1.20.0
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+cache-control: no-cache
+content-security-policy: 
+x-request-id: 0bcd92c0-6fc7-44b3-a4ce-ae968077134f
+x-runtime: 0.018082
+
+
+=== blog.holbertonschool.com ===
+HTTP/2 200 
+server: nginx
+date: Thu, 21 Aug 2025 10:18:41 GMT
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-hacker: Want root?  Visit join.a8c.com and mention this header.
+host-header: WordPress.com
+vary: accept, content-type, cookie
+link: <https://blog.holbertonschool.com/wp-json/>; rel="https://api.w.org/"
+link: <https://blog.holbertonschool.com/wp-json/wp/v2/pages/2172>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://wp.me/Pd2vn4-z2>; rel=shortlink
+last-modified: Thu, 21 Aug 2025 10:16:53 GMT
+cache-control: max-age=300, must-revalidate
+x-nananana: Batcache-Set
+x-ac: 1.mxp _atomic_ams HIT
+alt-svc: h3=":443"; ma=86400
+server-timing: a8c-cdn, dc;desc=mxp, cache;desc=HIT;dur=1.0
+
+
+=== staging-apply.holbertonschool.com ===
+HTTP/2 401 
+date: Thu, 21 Aug 2025 10:18:41 GMT
+content-type: text/html; charset=utf-8
+server: nginx/1.20.0
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+www-authenticate: Basic realm="Application"
+cache-control: no-cache
+content-security-policy: 
+x-request-id: 40995e88-93da-481b-a53d-0a9881a4b481
+x-runtime: 0.003927
+
