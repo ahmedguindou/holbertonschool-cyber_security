@@ -1,1 +1,2 @@
-ip.src == 10.0.2.15 && icmp
+ip.proto == 1
+
