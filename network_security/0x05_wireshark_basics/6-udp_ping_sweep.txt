@@ -1,1 +1,1 @@
-udp and udp.dstport and ip.src == 192.168.1.126
+udp && udp.length == 0 && udp.dstport == 7
