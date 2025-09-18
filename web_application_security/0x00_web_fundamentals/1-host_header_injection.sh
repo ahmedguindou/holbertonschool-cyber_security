@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -s -X POST -H "Host: $1" -d "$3" "$2" | grep -q "$1" && printf ok || printf invalid
+curl -s -X POST "$2" -H "Host: $1" -H "Content-Type: application/x-www-form-urlencoded" -d "$3"
