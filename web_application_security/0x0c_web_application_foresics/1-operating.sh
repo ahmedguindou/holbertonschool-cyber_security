@@ -18,5 +18,6 @@ then
     exit 1
 fi
 
-# Extract Linux version line
-grep "Linux version" "$DMESG_FILE" | head -1
+# Look for Linux version using grep with context to see what's available
+echo "Searching for Linux version information..."
+grep -i "linux\|version\|ubuntu\|kernel" "$DMESG_FILE" | head -5
