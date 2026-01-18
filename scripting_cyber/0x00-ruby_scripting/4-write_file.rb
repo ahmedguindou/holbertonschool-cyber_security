@@ -2,16 +2,11 @@
 require 'json'
 
 def merge_json_files(file1_path, file2_path)
-  # Read and parse both JSON files
-  file1_content = File.read(file1_path)
-  file2_content = File.read(file2_path)
-  
-  data1 = JSON.parse(file1_content)
-  data2 = JSON.parse(file2_content)
-  
-  # Merge the data (assuming both are arrays)
-  merged_data = data1 + data2
-  
-  # Write merged data back to file2
-  File.write(file2_path, JSON.pretty_generate(merged_data))
+    file1_data = JSON.parse(File.read(file1_path))
+    file2_data = JSON.parse(File.read(file2_path))
+
+    merged_data = file2_data + file1_data
+
+    File.write(file2_path, JSON.pretty_generate(merged_data))
+    puts "Merged JSON written to #{file2_path}"
 end
